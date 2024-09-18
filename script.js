@@ -75,7 +75,7 @@ const animationTimeline = () => {
             opacity: 0,
             y: 10
         },
-    "+=3")
+    "+=2")
     .from(".three", 0.7, {
         opacity: 0,
         y: 10
